@@ -1,0 +1,23 @@
+Performance,LogisticRegression (Skin_NoSkin),Decision Tree Classification (Skin_NoSkin),Random Forest Classification(Skin_NoSkin),KNN Neighbor (Skin_NoSkin),LogisticRegression (OnlineNewsPopularity),Decision Tree Classification (OnlineNewsPopularity),Random Forest Classification(OnlineNewsPopularity),KNN Neighbor (OnlineNewsPopularity)
+Accuracy,0.918763535,0.999275674,0.999449105,0.999479708,0.724547026,0.655966956,0.672657282,0.69002084
+Precision,0.953284703,0.999645855,0.999922713,0.999948476,0.745260617,0.763723488,0.768795274,0.760384964
+ROC,0.950854887,0.999044342,0.999908237,0.999835252,0.71580657,0.580333826,0.637026757,0.646755738
+Recall,0.943720906,0.999439909,0.999381972,0.999394845,0.936305845,0.753963741,0.791340025,0.82960724
+F1 Score,0.948477057,0.999542861,0.999652257,0.999671568,0.82992609,0.758793037,0.76825829,0.79347436
+No of Correct Predictions_log(Normalised),1,0,0.082150107,0.267391825,0.917150497,0.198535172,0.442312859,0.882855489
+RunTime(Normalised),0.007175446,0,0.038571293,0.021262598,0.046981839,0.091141144,0.097874419,1
+,,,,,,,,
+Rank,LogisticRegression (Skin_NoSkin),Decision Tree Classification (Skin_NoSkin),Random Forest Classification(Skin_NoSkin),KNN Neighbor (Skin_NoSkin),LogisticRegression (OnlineNewsPopularity),Decision Tree Classification (OnlineNewsPopularity),Random Forest Classification(OnlineNewsPopularity),KNN Neighbor (OnlineNewsPopularity)
+Accuracy,4,3,2,1,1,4,3,2
+Precision,4,3,2,1,4,2,1,3
+ROC,4,3,1,2,1,4,3,2
+Recall,4,1,3,2,1,4,3,2
+F1 Score,4,3,2,1,1,4,3,2
+No of Correct Predictions_log(Normalised),1,4,3,2,1,4,3,2
+RunTime(Normalised),3,4,1,2,4,3,2,1
+,,,,,,,,
+Rank Frequency (Overall),LogisticRegression,Decision Tree Classification,Random Forest Classification,KNN Neighbor,,,,
+Rank 1,6,1,3,4,,,,
+Rank 2,0,1,4,9,,,,
+Rank 3,1,5,7,1,,,,
+Rank 4,7,7,0,0,,,,
