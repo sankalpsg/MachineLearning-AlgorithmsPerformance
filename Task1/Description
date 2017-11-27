@@ -1,1 +1,13 @@
 Sourcecode
+Findings/AnswerQuestion 1: To what extent does the effectiveness of machine-learning algorithms depend on the size and 
+complexity of the data? Answer:: The effectiveness of machine-learning algorithms depends to a vast extent on the size of the data. 
+From the chart given above, it is observed that the prediction metrics vary with the number of data-points taken into consideration. 
+Although, it cannot be conclusively said that the higher the size of the data, the better the effectiveness of machine-learning algorithms.
+The chart clearly depicts instances where the size of the dataset has noticeable effect on the effectiveness but there are instances where
+a larger dataset has resulted in the lowering of effectiveness of the algorithm. The effectiveness of thealgorithm depends on the 
+complexity of the problem i.e.how a dependent variable is related to the independent variable. There needs to be enough data to
+capture this relationship that may or may not exist between input and output variables. From the above chart, it was also observed 
+that the effectiveness of the algorithm also depends on the complexity of the data. It was observed that for data without noise, the 
+predictions were accurate or close to accurate thus increasing effectiveness. From our observation,if a dataset contains many number 
+of features thatare irrelevant tothe data that is to be predicted, the predictionquality of the model decreases.
+Hence simply adding features which are not relevant to the output, will reduce the effectiveness of the algorithm.
